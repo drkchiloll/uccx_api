@@ -1,0 +1,5 @@
+rsrc_grp,add,modify,delete,new_name
+sales,t,f,f,uc_sales
+engineering,t,f,f,uc_eng
+marketing,t,f,f,uc_marketing
+support,t,f,f,uc_support
